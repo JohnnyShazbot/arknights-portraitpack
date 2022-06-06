@@ -2,7 +2,7 @@
 	#if you are going to use github as the masterVersionfile please use the raw text
     "masterVersionFile":"https://raw.githubusercontent.com/JohnnyShazbot/arknights-portraitpack/main/arknightsportraitpack.version",
     "modName":"Arknights Portrait Pack",
-    "modThreadId":,
+    "modThreadId":24715,
     "modVersion":
     {
         "major":1,
