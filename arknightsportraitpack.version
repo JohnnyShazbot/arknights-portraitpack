@@ -1,0 +1,12 @@
+{
+	#if you are going to use github as the masterVersionfile please use the raw text
+    "masterVersionFile":"https://raw.githubusercontent.com/JohnnyShazbot/arknights-portraitpack/main/arknightsportraitpack.version",
+    "modName":"Arknights Portrait Pack",
+    "modThreadId":,
+    "modVersion":
+    {
+        "major":1,
+        "minor":0,
+        "patch":0
+    }
+}
